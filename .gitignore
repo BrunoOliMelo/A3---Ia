@@ -1,0 +1,8 @@
+# ambientes
+.venv*/
+models/
+__pycache__/
+*.joblib
+*.ipynb_checkpoints
+# IDE
+.vscode/

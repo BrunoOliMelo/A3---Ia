@@ -1,0 +1,7 @@
+pandas
+openpyxl
+numpy==1.26.4
+scikit-learn==1.4.2
+scikit-learn-extra==0.3.0
+joblib
+streamlit
